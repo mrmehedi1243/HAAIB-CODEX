@@ -1,0 +1,2 @@
+admin_password=hasib
+global_duration=1000

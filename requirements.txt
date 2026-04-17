@@ -10,3 +10,8 @@ protobuf-decoder
 pytz
 aiohttp
 cfonts
+flask
+flask-socketio
+eventlet
+gunicorn
+requests
